@@ -1,0 +1,575 @@
+{
+    "homepage": [
+        {
+            "wordGroupType": "SUBJECT",
+            "items": [
+                {
+                    "textTR": "Ben",
+                    "textEN": "I",
+                    "image": "img_subject_i"
+                },
+                {
+                    "textTR": "Sen",
+                    "textEN": "You",
+                    "image": "img_subject_you"
+                },
+                {
+                    "textTR": "O",
+                    "textEN": "He",
+                    "image": "img_subject_he"
+                },
+                {
+                    "textTR": "O",
+                    "textEN": "She",
+                    "image": "img_subject_she"
+                },
+                {
+                    "textTR": "O",
+                    "textEN": "It",
+                    "image": "img_subject_it"
+                },
+                {
+                    "textTR": "Biz",
+                    "textEN": "We",
+                    "image": "img_subject_we"
+                },
+                {
+                    "textTR": "Onlar",
+                    "textEN": "They",
+                    "image": "img_subject_they"
+                },
+                {
+                    "textTR": "Anne",
+                    "textEN": "Mum",
+                    "image": "img_subject_mom"
+                },
+                {
+                    "textTR": "Baba",
+                    "textEN": "Dad",
+                    "image": "img_subject_dad"
+                },
+                {
+                    "textTR": "Erkek Çocuk",
+                    "textEN": "Boy",
+                    "image": "img_subject_boy"
+                },
+                {
+                    "textTR": "Kız Çocuk",
+                    "textEN": "Girl",
+                    "image": "img_subject_girl"
+                },
+                {
+                    "textTR": "Dede",
+                    "textEN": "Grandpa",
+                    "image": "img_subject_grandpa"
+                },
+                {
+                    "textTR": "Nine",
+                    "textEN": "Grandma",
+                    "image": "img_subject_grandma"
+                },
+                {
+                    "textTR": "Arkadaşlar",
+                    "textEN": "Friends",
+                    "image": "img_subject_friends"
+                },
+                {
+                    "textTR": "Komşular",
+                    "textEN": "Neighbours",
+                    "image": "img_subject_neighbours"
+                },
+                {
+                    "textTR": "Öğretmen",
+                    "textEN": "Teacher",
+                    "image": "img_subject_teacher"
+                },
+                {
+                    "textTR": "Polis",
+                    "textEN": "Police",
+                    "image": "img_subject_police"
+                },
+                {
+                    "textTR": "İtfaiyeci",
+                    "textEN": "Firefighter",
+                    "image": "img_subject_firefighter"
+                },
+                {
+                    "textTR": "Doktor",
+                    "textEN": "Doctor",
+                    "image": "img_subject_doctor"
+                }
+            ]
+        },
+        {
+            "wordGroupType": "VERB",
+            "items": [
+                {
+                    "textTR": "İstemek",
+                    "textEN": "Want",
+                    "image": "img_verb_want"
+                },
+                {
+                    "textTR": "Olmak",
+                    "textEN": "Be",
+                    "image": "img_verb_be"
+                },
+                {
+                    "textTR": "Yemek",
+                    "textEN": "Eat",
+                    "image": "img_verb_eat"
+                },
+                {
+                    "textTR": "İçmek",
+                    "textEN": "Drink",
+                    "image": "img_verb_drink"
+                },
+                {
+                    "textTR": "Gitmek",
+                    "textEN": "Go",
+                    "image": "img_verb_go"
+                },
+                {
+                    "textTR": "Dinlemek",
+                    "textEN": "Listen",
+                    "image": "img_verb_listen"
+                },
+                {
+                    "textTR": "Görmek",
+                    "textEN": "See",
+                    "image": "img_verb_see"
+                },
+                {
+                    "textTR": "Koklamak",
+                    "textEN": "Smell",
+                    "image": "img_verb_smell"
+                },
+                {
+                    "textTR": "Yapmak",
+                    "textEN": "Make",
+                    "image": "img_verb_make"
+                },
+                {
+                    "textTR": "Konuşmak",
+                    "textEN": "Talk To",
+                    "image": "img_verb_talkto"
+                },
+                {
+                    "textTR": "Sahip Olmak",
+                    "textEN": "Have",
+                    "image": "img_verb_have"
+                },
+                {
+                    "textTR": "Vermek",
+                    "textEN": "Give",
+                    "image": "img_verb_give"
+                },
+                {
+                    "textTR": "Giymek",
+                    "textEN": "Wear",
+                    "image": "img_verb_wear"
+                },
+                {
+                    "textTR": "Uyumak",
+                    "textEN": "Sleep",
+                    "image": "img_verb_sleep"
+                },
+                {
+                    "textTR": "Oynamak",
+                    "textEN": "Play",
+                    "image": "img_verb_play"
+                },
+                {
+                    "textTR": "Satın Almak",
+                    "textEN": "Buy",
+                    "image": "img_verb_buy"
+                },
+                {
+                    "textTR": "Ziyaret Etmek",
+                    "textEN": "Visit",
+                    "image": "img_verb_visit"
+                },
+                {
+                    "textTR": "Seyahat Etmek",
+                    "textEN": "Travel",
+                    "image": "img_verb_travel"
+                },
+                {
+                    "textTR": "Gelmek",
+                    "textEN": "Come",
+                    "image": "img_verb_come"
+                },
+                {
+                    "textTR": "Ders çalışmak",
+                    "textEN": "Study",
+                    "image": "img_verb_study"
+                },
+                {
+                    "textTR": "Dur",
+                    "textEN": "Stop",
+                    "image": "img_verb_stop"
+                }
+            ]
+        },
+        {
+            "wordGroupType": "SUPPORTIVE",
+            "items": [
+                {
+                    "textTR": "Evet",
+                    "textEN": "Yes",
+                    "image": "img_supportive_yes"
+                },
+                {
+                    "textTR": "Hayır",
+                    "textEN": "No",
+                    "image": "img_supportive_no"
+                },
+                {
+                    "textTR": "Kötü",
+                    "textEN": "Bad",
+                    "image": "img_supportive_bad"
+                },
+                {
+                    "textTR": "Nasıl",
+                    "textEN": "How",
+                    "image": "img_supportive_how"
+                },
+                {
+                    "textTR": "Nerede",
+                    "textEN": "Where",
+                    "image": "img_supportive_where"
+                },
+                {
+                    "textTR": "Asla",
+                    "textEN": "Never",
+                    "image": "img_supportive_never"
+                },
+                {
+                    "textTR": "Yavaş",
+                    "textEN": "Slow",
+                    "image": "img_supportive_slow"
+                },
+                {
+                    "textTR": "Ben de",
+                    "textEN": "Me too",
+                    "image": "img_supportive_me_too"
+                },
+                {
+                    "textEN": "well",
+                    "textTR": "iyi",
+                    "image": "img_supportive_well"
+                },
+                {
+                    "textEN": "bad",
+                    "textTR": "kötü",
+                    "image": "img_supportive_bad"
+                },
+                {
+                    "textEN": "yesterday",
+                    "textTR": "dün",
+                    "image": "img_supportive_yesterday"
+                },
+                {
+                    "textEN": "tomorrow",
+                    "textTR": "yarın",
+                    "image": "img_supportive_tomorrow"
+                },
+                {
+                    "textEN": "today",
+                    "textTR": "bugün",
+                    "image": "img_supportive_today"
+                },
+                {
+                    "textEN": "very",
+                    "textTR": "çok",
+                    "image": "img_supportive_very"
+                },
+                {
+                    "textEN": "now",
+                    "textTR": "şimdi",
+                    "image": "img_supportive_now"
+                },
+                {
+                    "textEN": "late",
+                    "textTR": " Geç",
+                    "image": "img_supportive_late"
+                },
+                {
+                    "textTR": "Her zaman",
+                    "textEN": "Always",
+                    "image": "img_supportive_always"
+                },
+                {
+                    "textTR": "Orada",
+                    "textEN": "There",
+                    "image": "img_supportive_there"
+                },
+                {
+                    "textTR": "Hızlı",
+                    "textEN": "Quick",
+                    "image": "img_supportive_quick"
+                },
+                {
+                    "textTR": "Sabah",
+                    "textEN": "Morning",
+                    "image": "img_supportive_morning"
+                },
+                {
+                    "textTR": "Burada",
+                    "textEN": "Here",
+                    "image": "img_supportive_here"
+                },
+                {
+                    "textTR": "Önce",
+                    "textEN": "Before",
+                    "image": "img_supportive_before"
+                }
+            ]
+        },
+        {
+            "wordGroupType": "EXTRA",
+            "items": [
+                {
+                    "textTR": "Lütfen",
+                    "textEN": "Please",
+                    "image": "img_extra_please"
+                },
+                {
+                    "textTR": "Yardım",
+                    "textEN": "Help",
+                    "image": "img_extra_help"
+                },
+                {
+                    "textTR": "Üzgünüm",
+                    "textEN": "Sorry",
+                    "image": "img_extra_sorry"
+                },
+                {
+                    "textTR": "Günaydın",
+                    "textEN": "Good Morning",
+                    "image": "img_extra_good_morning"
+                },
+                {
+                    "textTR": "Merhaba",
+                    "textEN": "Hello",
+                    "image": "img_extra_hello"
+                },
+                {
+                    "textTR": "Hoşça Kal",
+                    "textEN": "Bye",
+                    "image": "img_extra_bye"
+                },
+                {
+                    "textTR": "Hoş Geldiniz",
+                    "textEN": "Welcome",
+                    "image": "img_extra_welcome"
+                },
+                {
+                    "textTR": "Teşekkür Ederim",
+                    "textEN": "Thank You",
+                    "image": "img_extra_thank_you"
+                },
+                {
+                    "textTR": "Beğendim",
+                    "textEN": "I Like It",
+                    "image": "img_extra_i_like_it"
+                },
+                {
+                    "textTR": "Beğenmedim",
+                    "textEN": "I Don't Like It",
+                    "image": "img_extra_dont_like"
+                },
+                {
+                    "textTR": "Bana Ver",
+                    "textEN": "Give Me",
+                    "image": "img_extra_give_me"
+                },
+                {
+                    "textEN": "what do you want?",
+                    "textTR": "ne istiyorsun?",
+                    "image": "img_extra_what_want"
+                },
+                {
+                    "textEN": "I do not understand",
+                    "textTR": "anlamıyorum",
+                    "image": "img_extra_not_understand"
+                },
+                {
+                    "textEN": "let's go home",
+                    "textTR": "hadi eve gidelim",
+                    "image": "img_extra_go_home"
+                },
+                {
+                    "textEN": "I am ready",
+                    "textTR": "hazırım",
+                    "image": "img_extra_ready"
+                },
+                {
+                    "textEN": "I don't need help",
+                    "textTR": "yardıma ihtiyacım yok",
+                    "image": "img_extra_no_help"
+                },
+                {
+                    "textEN": "ok",
+                    "textTR": "tamam",
+                    "image": "img_extra_ok"
+                },
+                {
+                    "textEN": "right or wrong?",
+                    "textTR": "doğru mu yanlış mı?",
+                    "image": "img_extra_right_or_wrong"
+                },
+                {
+                    "textEN": "we don't agree",
+                    "textTR": "aynı fikirde değiliz",
+                    "image": "img_extra_not_agree"
+                },
+                {
+                    "textEN": "what is that?",
+                    "textTR": "bu nedir?",
+                    "image": "img_extra_what_is"
+                },
+                {
+                    "textEN": "can you see it?",
+                    "textTR": "onu görebiliyor musun?",
+                    "image": "img_extra_can_see"
+                }
+            ]
+        },
+        {
+            "wordGroupType": "CATEGORY",
+            "items": [
+                {
+                    "textTR": "Yiyecek",
+                    "textEN": "Food",
+                    "image": "img_category_food",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "içecek",
+                    "textEN": "Drinks",
+                    "image": "img_category_drinks",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Giysiler",
+                    "textEN": "Clothes",
+                    "image": "img_category_clothes",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Yerler",
+                    "textEN": "Places",
+                    "image": "img_category_places",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Ulaşım",
+                    "textEN": "Transports",
+                    "image": "img_category_transports",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Ev",
+                    "textEN": "Home",
+                    "image": "img_category_home",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Renkler",
+                    "textEN": "Colors",
+                    "image": "img_category_colors",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Vücut",
+                    "textEN": "Body",
+                    "image": "img_category_body",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Hayvanlar",
+                    "textEN": "Animals",
+                    "image": "img_category_animals",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Nesne",
+                    "textEN": "Objects",
+                    "image": "img_category_object",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Sıfatlar",
+                    "textEN": "Adjectives",
+                    "image": "img_category_adjective",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Duygular",
+                    "textEN": "Feelings",
+                    "image": "img_category_feeling",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Oyuncak",
+                    "textEN": "Toys",
+                    "image": "img_category_toys",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Eğitim",
+                    "textEN": "Education",
+                    "image": "img_category_school",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Hava Durumu",
+                    "textEN": "Weather",
+                    "image": "img_category_weather",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Kavramlar",
+                    "textEN": "Concepts",
+                    "image": "img_category_concepts",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Şekiller",
+                    "textEN": "Shapes",
+                    "image": "img_category_shape",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Kişisel temizlik",
+                    "textEN": "health and hygiene",
+                    "image": "img_category_hygiene",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "ifadeler",
+                    "textEN": "Expressions",
+                    "image": "img_category_expression",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Yapı",
+                    "textEN": "Buildings",
+                    "image": "img_category_building",
+                    "isTitle": true
+                },
+                {
+                    "textTR": "Cihazlar ve mobilyalar",
+                    "textEN": "appliances and furniture",
+                    "image": "img_category_appliances",
+                    "isTitle": true
+                }
+            ],
+            "columns": {
+                "small": 1,
+                "medium": 1,
+                "large": 3
+            }
+        }
+    ]
+}
