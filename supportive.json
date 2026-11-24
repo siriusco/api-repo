@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "textTR": "Evet",
+            "textEN": "Yes",
+            "image": "img_supportive_yes"
+        },
+        {
+            "textTR": "Hayır",
+            "textEN": "No",
+            "image": "img_supportive_no"
+        },
+        {
+            "textTR": "Kötü",
+            "textEN": "Bad",
+            "image": "img_supportive_bad"
+        },
+        {
+            "textTR": "Nasıl",
+            "textEN": "How",
+            "image": "img_supportive_how"
+        },
+        {
+            "textTR": "Nerede",
+            "textEN": "Where",
+            "image": "img_supportive_where"
+        },
+        {
+            "textTR": "Asla",
+            "textEN": "Never",
+            "image": "img_supportive_never"
+        },
+        {
+            "textTR": "Yavaş",
+            "textEN": "Slow",
+            "image": "img_supportive_slow"
+        },
+        {
+            "textTR": "Ben de",
+            "textEN": "Me too",
+            "image": "img_supportive_me_too"
+        },
+        {
+            "textEN": "well",
+            "textTR": "iyi",
+            "image": "img_supportive_well"
+        },
+        {
+            "textEN": "bad",
+            "textTR": "kötü",
+            "image": "img_supportive_bad"
+        },
+        {
+            "textEN": "yesterday",
+            "textTR": "dün",
+            "image": "img_supportive_yesterday"
+        },
+        {
+            "textEN": "tomorrow",
+            "textTR": "yarın",
+            "image": "img_supportive_tomorrow"
+        },
+        {
+            "textEN": "today",
+            "textTR": "bugün",
+            "image": "img_supportive_today"
+        },
+        {
+            "textEN": "very",
+            "textTR": "çok",
+            "image": "img_supportive_very"
+        },
+        {
+            "textEN": "now",
+            "textTR": "şimdi",
+            "image": "img_supportive_now"
+        },
+        {
+            "textEN": "late",
+            "textTR": " Geç",
+            "image": "img_supportive_late"
+        },
+        {
+            "textTR": "Her zaman",
+            "textEN": "Always",
+            "image": "img_supportive_always"
+        },
+        {
+            "textTR": "Orada",
+            "textEN": "There",
+            "image": "img_supportive_there"
+        },
+        {
+            "textTR": "Hızlı",
+            "textEN": "Quick",
+            "image": "img_supportive_quick"
+        },
+        {
+            "textTR": "Sabah",
+            "textEN": "Morning",
+            "image": "img_supportive_morning"
+        },
+        {
+            "textTR": "Burada",
+            "textEN": "Here",
+            "image": "img_supportive_here"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "items": [
+        {
+            "textTR": "Ben",
+            "textEN": "I",
+            "image": "img_subject_i"
+        },
+        {
+            "textTR": "Sen",
+            "textEN": "You",
+            "image": "img_subject_you"
+        },
+        {
+            "textTR": "O",
+            "textEN": "He",
+            "image": "img_subject_he"
+        },
+        {
+            "textTR": "O",
+            "textEN": "She",
+            "image": "img_subject_she"
+        },
+        {
+            "textTR": "O",
+            "textEN": "It",
+            "image": "img_subject_it"
+        },
+        {
+            "textTR": "Biz",
+            "textEN": "We",
+            "image": "img_subject_we"
+        },
+        {
+            "textTR": "Onlar",
+            "textEN": "They",
+            "image": "img_subject_they"
+        },
+        {
+            "textTR": "Anne",
+            "textEN": "Mum",
+            "image": "img_subject_mom"
+        },
+        {
+            "textTR": "Baba",
+            "textEN": "Dad",
+            "image": "img_subject_dad"
+        },
+        {
+            "textTR": "Erkek Çocuk",
+            "textEN": "Boy",
+            "image": "img_subject_boy"
+        },
+        {
+            "textTR": "Kız Çocuk",
+            "textEN": "Girl",
+            "image": "img_subject_girl"
+        },
+        {
+            "textTR": "Dede",
+            "textEN": "Grandpa",
+            "image": "img_subject_grandpa"
+        },
+        {
+            "textTR": "Nine",
+            "textEN": "Grandma",
+            "image": "img_subject_grandma"
+        },
+        {
+            "textTR": "Arkadaşlar",
+            "textEN": "Friends",
+            "image": "img_subject_friends"
+        },
+        {
+            "textTR": "Komşular",
+            "textEN": "Neighbours",
+            "image": "img_subject_neighbours"
+        },
+        {
+            "textTR": "Öğretmen",
+            "textEN": "Teacher",
+            "image": "img_subject_teacher"
+        },
+        {
+            "textTR": "Polis",
+            "textEN": "Police",
+            "image": "img_subject_police"
+        },
+        {
+            "textTR": "İtfaiyeci",
+            "textEN": "Firefighter",
+            "image": "img_subject_firefighter"
+        },
+        {
+            "textTR": "Doktor",
+            "textEN": "Doctor",
+            "image": "img_subject_doctor"
+        }
+    ]
+}

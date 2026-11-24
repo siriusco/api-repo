@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "textTR": "İstemek",
+            "textEN": "Want",
+            "image": "img_verb_want"
+        },
+        {
+            "textTR": "Olmak",
+            "textEN": "Be",
+            "image": "img_verb_be"
+        },
+        {
+            "textTR": "Yemek",
+            "textEN": "Eat",
+            "image": "img_verb_eat"
+        },
+        {
+            "textTR": "İçmek",
+            "textEN": "Drink",
+            "image": "img_verb_drink"
+        },
+        {
+            "textTR": "Gitmek",
+            "textEN": "Go",
+            "image": "img_verb_go"
+        },
+        {
+            "textTR": "Dinlemek",
+            "textEN": "Listen",
+            "image": "img_verb_listen"
+        },
+        {
+            "textTR": "Görmek",
+            "textEN": "See",
+            "image": "img_verb_see"
+        },
+        {
+            "textTR": "Koklamak",
+            "textEN": "Smell",
+            "image": "img_verb_smell"
+        },
+        {
+            "textTR": "Yapmak",
+            "textEN": "Make",
+            "image": "img_verb_make"
+        },
+        {
+            "textTR": "Konuşmak",
+            "textEN": "Talk To",
+            "image": "img_verb_talkto"
+        },
+        {
+            "textTR": "Sahip Olmak",
+            "textEN": "Have",
+            "image": "img_verb_have"
+        },
+        {
+            "textTR": "Vermek",
+            "textEN": "Give",
+            "image": "img_verb_give"
+        },
+        {
+            "textTR": "Giymek",
+            "textEN": "Wear",
+            "image": "img_verb_wear"
+        },
+        {
+            "textTR": "Uyumak",
+            "textEN": "Sleep",
+            "image": "img_verb_sleep"
+        },
+        {
+            "textTR": "Oynamak",
+            "textEN": "Play",
+            "image": "img_verb_play"
+        },
+        {
+            "textTR": "Satın Almak",
+            "textEN": "Buy",
+            "image": "img_verb_buy"
+        },
+        {
+            "textTR": "Ziyaret Etmek",
+            "textEN": "Visit",
+            "image": "img_verb_visit"
+        },
+        {
+            "textTR": "Seyahat Etmek",
+            "textEN": "Travel",
+            "image": "img_verb_travel"
+        },
+        {
+            "textTR": "Gelmek",
+            "textEN": "Come",
+            "image": "img_verb_come"
+        },
+        {
+            "textTR": "Ders çalışmak",
+            "textEN": "Study",
+            "image": "img_verb_study"
+        },
+        {
+            "textTR": "Dur",
+            "textEN": "Stop",
+            "image": "img_verb_stop"
+        }
+    ]
+}

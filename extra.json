@@ -1,0 +1,109 @@
+{
+    "items": [
+        {
+            "textTR": "Lütfen",
+            "textEN": "Please",
+            "image": "img_extra_please"
+        },
+        {
+            "textTR": "Yardım",
+            "textEN": "Help",
+            "image": "img_extra_help"
+        },
+        {
+            "textTR": "Üzgünüm",
+            "textEN": "Sorry",
+            "image": "img_extra_sorry"
+        },
+        {
+            "textTR": "Günaydın",
+            "textEN": "Good Morning",
+            "image": "img_extra_good_morning"
+        },
+        {
+            "textTR": "Merhaba",
+            "textEN": "Hello",
+            "image": "img_extra_hello"
+        },
+        {
+            "textTR": "Hoşça Kal",
+            "textEN": "Bye",
+            "image": "img_extra_bye"
+        },
+        {
+            "textTR": "Hoş Geldiniz",
+            "textEN": "Welcome",
+            "image": "img_extra_welcome"
+        },
+        {
+            "textTR": "Teşekkür Ederim",
+            "textEN": "Thank You",
+            "image": "img_extra_thank_you"
+        },
+        {
+            "textTR": "Beğendim",
+            "textEN": "I Like It",
+            "image": "img_extra_i_like_it"
+        },
+        {
+            "textTR": "Beğenmedim",
+            "textEN": "I Don't Like It",
+            "image": "img_extra_dont_like"
+        },
+        {
+            "textTR": "Bana Ver",
+            "textEN": "Give Me",
+            "image": "img_extra_give_me"
+        },
+        {
+            "textEN": "what do you want?",
+            "textTR": "ne istiyorsun?",
+            "image": "img_extra_what_want"
+        },
+        {
+            "textEN": "I do not understand",
+            "textTR": "anlamıyorum",
+            "image": "img_extra_not_understand"
+        },
+        {
+            "textEN": "let's go home",
+            "textTR": "hadi eve gidelim",
+            "image": "img_extra_go_home"
+        },
+        {
+            "textEN": "I am ready",
+            "textTR": "hazırım",
+            "image": "img_extra_ready"
+        },
+        {
+            "textEN": "I don't need help",
+            "textTR": "yardıma ihtiyacım yok",
+            "image": "img_extra_no_help"
+        },
+        {
+            "textEN": "ok",
+            "textTR": "tamam",
+            "image": "img_extra_ok"
+        },
+        {
+            "textEN": "right or wrong?",
+            "textTR": "doğru mu yanlış mı?",
+            "image": "img_extra_right_or_wrong"
+        },
+        {
+            "textEN": "we don't agree",
+            "textTR": "aynı fikirde değiliz",
+            "image": "img_extra_not_agree"
+        },
+        {
+            "textEN": "what is that?",
+            "textTR": "bu nedir?",
+            "image": "img_extra_what_is"
+        },
+        {
+            "textEN": "can you see it?",
+            "textTR": "onu görebiliyor musun?",
+            "image": "img_extra_can_see"
+        }
+    ]
+}
